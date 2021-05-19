@@ -1,0 +1,26 @@
+
+
+
+
+Software Package Requirement:
+
+Please download all of our files from our github: 
+
+
+
+We use python 2.7 for this project. 
+
+The packages we used include:
+
+pandas
+numpy
+collections 
+surprise
+matplotlib.pyplot
+math
+pickle
+collections
+__future__
+os
+sklearn.metrics
+random
